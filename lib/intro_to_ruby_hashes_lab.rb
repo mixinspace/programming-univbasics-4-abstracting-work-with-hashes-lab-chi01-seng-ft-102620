@@ -10,7 +10,6 @@ def update_counting_hash(hash, key)
   { key => "hello"}
   if hash = [] do
     { key: 1}
-  }
 
   end
   # if the provided key is not present in the hash, add it and assign it to the value of 1
