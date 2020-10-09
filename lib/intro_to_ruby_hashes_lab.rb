@@ -8,7 +8,7 @@ end
 
 def update_counting_hash(hash, key)
   { key => "hello"}
-  if key == nil{
+  if hash = [] do
     { key: 1}
   }
 
